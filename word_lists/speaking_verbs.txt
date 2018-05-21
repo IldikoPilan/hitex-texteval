@@ -1,0 +1,107 @@
+artikulera	Communication_manner
+avsjunga	Communication_manner
+babbla	Communication_manner
+bryta	Communication_manner	bryta..4 
+buktala	Communication_manner
+chevrotera	Communication_manner
+doa	Communication_manner
+docera	Communication_manner
+domdera	Communication_manner
+gnola	Communication_manner
+hacka	Communication_manner	hacka..3
+halvviska	Communication_manner
+joddla	Communication_manner
+jojka	Communication_manner
+kvintilera	Communication_manner
+kväda	Communication_manner
+lalla	Communication_manner
+lovsjunga	Communication_manner
+mumla	Communication_manner
+muttra	Communication_manner
+nasalera	Communication_manner
+nynna	Communication_manner
+orera	Communication_manner
+parentera	Communication_manner
+pladdra	Communication_manner
+sjunga	Communication_manner
+sluddra	Communication_manner
+stamma	Communication_manner
+tassla	Communication_manner
+tissla	Communication_manner
+tralla	Communication_manner
+viska	Communication_manner
+vokalisera 	Communication_manner
+yra	Communication_manner	yra..5
+dundra	Communication_noise
+gallskrika	Communication_noise
+gapa	Communication_noise	gapa..2
+gasta	Communication_noise
+gnälla	Communication_noise
+hoa	Communication_noise
+hoja	Communication_noise
+hojta	Communication_noise
+knorra	Communication_noise
+mullra	Communication_noise
+murra	Communication_noise
+rya	Communication_noise	rya..2
+ryta	Communication_noise
+skria	Communication_noise
+skrika	Communication_noise
+vråla	Communication_noise
+begrunda	Cogitation
+betänka	Cogitation
+brottas	Cogitation	brottas..2
+filosofera	Cogitation
+fundera	Cogitation
+grubbla	Cogitation
+grunna	Cogitation
+meditera	Cogitation
+reflektera	Cogitation	reflektera..2
+tänka	Cogitation
+undra	Cogitation
+fråga
+förhöra
+grilla	Questioning	grilla..2
+halstra	Questioning	halstra..2
+höra	Questioning	höra..4
+konsultera	Questioning
+pumpa	Questioning	pumpa..3
+rådfråga	Questioning
+spörja	Questioning
+tillfråga	Questioning
+undra	Questioning	undra..2
+anmärka	Statement	anmärka..2
+annonsera Statement	annonsera..2
+antyda	Statement
+deklarera	Statement
+dödförklara	Statement
+framkasta	Statement
+förklara	Statement	förklara..2
+förkunna	Statement
+glunka	Statement
+hävda	Statement
+infoga	infoga2	Statement
+inpassa	Statement	inpassa..2
+inrapportera	Statement
+insinuera	Statement
+kommentera	Statement
+konstatera	Statement
+kungöra	Statement
+notera	Statement	notera..4
+proklamera	Statement
+påstå	Statement
+rapportera	Statement
+skjuta_in	Statement	skjuta_in..3
+stadga		Statement	stadga..3
+säga	Statement
+tala	Statement
+tugga	Statement	tugga..3
+undfalla	Statement
+uppge	Statement
+utlysa	Statement
+utslunga	Statement
+uttala	Statement
+vidarerapportera	Statement
+yttra	Statement
+återrapportera	Statement
+tillägga	Cause_to_be_included	manual

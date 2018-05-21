@@ -1,0 +1,271 @@
+# List of Swedish profanities
+# List of sources:
+#	SALDO: children of 'svordom', 'sexuell', 'narkotika', 'neger', 'mörda', 'självmord', 'toalett', 'avföring', 'urin'
+# 	Wikipedia: https://en.wikipedia.org/wiki/Swedish_profanity, 13/07/2015
+#	manual:	   manually added (occasionally English terms)
+#	http://www.youswear.com/?language=Swedish (with an above 80% rating only)
+#
+# LEMMA	SOURCE	DOMAIN
+anamma	SALDO	religion
+banne_mig	SALDO	religion
+helvete	SALDO	religion
+jävla	SALDO	religion
+jävlar	SALDO	religion
+tusan	SALDO	religion
+sjutton	SALDO	other
+förbannad	SALDO	religion
+jädra	SALDO	religion
+jäkla	SALDO	religion
+bög	Wikipedia	sex
+hora	Wikipedia	sex
+fan	Wikipedia	religion
+förbannad	Wikipedia	religion
+herregud	Wikipedia	religion
+jisses	Wikipedia	religion
+jösses	Wikipedia	religion
+jävel	Wikipedia	religion
+djävel	Wikipedia	religion
+djävlig	manual	religion
+satan	Wikipedia	religion
+piss	Wikipedia	body
+skitstövel	Wikipedia	body, other
+arsel	Wikipedia	body
+arsle	Wikipedia	body
+fitta	Wikipedia	body, sex
+kuk	Wikipedia	body, sex
+röv	Wikipedia	body, sex
+rövhål	Wikipedia	body, sex
+fuck	manual		sex
+balle	youswear.com	body, sex
+blatte	youswear.com	other
+kuksugare	youswear.com	sex
+knulla	youswear.com	sex
+runka	youswear.com	sex
+patte	youswear.com	sex
+slyna	youswear.com	sex
+zigenare	youswear.com	discrimination
+tattare	youswear.com	other
+neger	SALDO	discrimination
+morian	SALDO	discrimination
+negress	SALDO	discrimination
+negroid	SALDO	discrimination
+nigger	SALDO	discrimination
+svarting	SALDO	discrimination
+negerblod	SALDO	discrimination
+negro_spiritual	SALDO	discrimination
+bröstvårta	manual	body, sex
+döda	SALDO	death, violence
+slakt	manual	death, violence
+kondom	manual	sex
+masturbera	manual	sex
+homosexuell	manual	other, sex
+lik	manual	death
+kadaver	manual	death
+kista	manual	death
+strypa	manual	death, violence
+mörda	SALDO	death, violence
+barnamördare	SALDO	death, violence
+knivmörda	SALDO	death, violence
+modermord	SALDO	death, violence
+modermördare	SALDO	death, violence
+mord	SALDO	death, violence
+mordlust	SALDO	death, violence
+mördande	SALDO	death, violence
+mördare	SALDO	death, violence
+nöjesmörda	SALDO	death, violence
+omördad	SALDO	death, violence
+seriemördare	SALDO	death, violence
+uppdragsmördare	SALDO	death, violence
+mordförsök	SALDO	death, violence
+mordhota	SALDO	death, violence
+mortängel	SALDO	death, violence
+myling	SALDO	death, violence
+avliva	SALDO	death, violence
+avrätta	SALDO	death, violence  
+bakteriedödande	SALDO	death, violence
+bane	SALDO	death, violence
+bita_ihjäl	SALDO	death, violence  
+blodbad	SALDO	death, violence
+blodsutgjutelse	SALDO	death, violence
+dråp	SALDO	death, violence
+dödande	SALDO	death, violence
+dödande	SALDO	death, violence 
+dödlig	SALDO	death, violence  
+fälla	SALDO	death, violence  
+gasa	SALDO	death, violence  
+ha_ihjäl	SALDO	death, violence  
+halshugga	SALDO	death, violence
+knivdöda	SALDO	death, violence 
+korsfästa	SALDO	death, violence
+kväva	SALDO	death, violence
+likvidera	SALDO	death, violence 
+mörda	SALDO	death, violence
+odödad	SALDO	death, violence
+ormdödare	SALDO	death, violence
+rista_blodörn	SALDO	death, violence  
+skjuta	SALDO	death, violence
+skjuta_ihjäl	SALDO	death, violence 
+skära_halsen	SALDO	death, violence
+slakta	SALDO	death, violence
+slå_ihjäl	SALDO	death, violence  
+sticka ihjäl	SALDO	death, violence
+sticka ner	SALDO	death, violence 
+strypa	SALDO	death, violence
+svälta_ihjäl	SALDO	death, violence 
+ta_av_daga	SALDO	death, violence
+ta_livet	SALDO	death, violence  
+utsläcka	SALDO	death, violence
+sälvmord	SALDO	death
+begå_självmord	SALDO	death
+giftbägare	SALDO	death
+harakiri	SALDO	death
+hänga_sig	SALDO	death 
+självmordsmässig	SALDO	death
+självmördare	SALDO	death
+våldta	manual	violence, sex
+våldtäckt	manual	violence, sex
+narkotika	manual	drugs
+cannabis	SALDO	drugs
+centralstimulantia	SALDO	drugs
+fenmetralin	SALDO	drugs
+hasch	SALDO	drugs
+heroin	SALDO	drugs
+kat	SALDO	drugs
+knark	SALDO	drugs
+kokain	SALDO	drugs
+marijuana	SALDO	drugs
+meskalin	SALDO	drugs
+morfin	SALDO	drugs
+narkoman	SALDO	drugs
+narkotikafri	SALDO	drugs
+narkotikum	SALDO	drugs
+narkotisk	SALDO	drugs
+opium	SALDO	drugs
+speed	SALDO	drugs
+sexualitet	manual	sex
+sexuell		manual	sex
+erogen	SALDO	sex
+erotisk	SALDO	sex
+frigid	SALDO	sex
+hångla	SALDO	sex
+impotent	SALDO	sex
+kladda	SALDO	sex
+kysk	SALDO	sex
+kättja	SALDO	sex
+kåt	SALDO	sex
+könsdrift	SALDO	sex
+könsskämt	SALDO	sex
+könsvarelse	SALDO	sex
+nekrofil	SALDO 	sex
+pervers	SALDO	sex
+oidipuskomplex	SALDO	sex
+onanera	SALDO	sex
+ormgrop	SALDO	sex
+orgie	SALDO	sex
+oskuld	SALDO	sex
+pederast	SALDO	sex
+pedofil	SALDO	sex
+pornografi	SALDO	sex
+potens	SALDO	sex
+promiskuös	SALDO	sex
+sedlighetsbrott	SALDO	sex
+sedlighetssårande	SALDO	sex
+sexig	SALDO	sex
+sexofredande	SALDO	sex
+sexualbrott	SALDO	sex, violence
+sexualcykel	SALDO	sex
+sexualdrift	SALDO	sex
+sexualkunskap	SALDO	sex
+sexualmord	SALDO	sex, death
+sexualradikalitet	SALDO	sex
+sexualupplysning	SALDO	sex
+skopofil	SALDO	sex
+stöta	SALDO	sex
+tafsa	SALDO	sex
+vällusting	SALDO	sex
+sexköpare	manuel	sex
+toalett	SALDO	secretion
+avträde	SALDO	secretion
+barntoalett	SALDO	secretion
+bekvämlighetsinrättning	SALDO	secretion
+damrum	SALDO	secretion
+damtoalett	SALDO	secretion
+dass	SALDO	secretion
+hemlighus	SALDO	secretion
+herrtoalett	SALDO	secretion
+kattoalett	SALDO	secretion
+klosett	SALDO	secretion
+mugg	SALDO	secretion
+mulltoa	SALDO	secretion
+toa	SALDO	secretion
+toalettsits	SALDO	secretion
+toalettstol	SALDO	secretion
+vakuumtoalett	SALDO	secretion
+sanitetsgods	SALDO	secretion
+toalettbesök	SALDO	secretion
+toalettbord	SALDO	secretion
+toalettkö	SALDO	secretion
+toalettpapper	SALDO	secretion
+avföring	SALDO	secretion
+exkrement	SALDO	secretion
+bajsa	SALDO	secretion
+barnbeck	SALDO	secretion
+fekal	SALDO	secretion
+fekalier	SALDO	secretion
+förstoppa	SALDO	secretion
+göra_ifrån_sig	SALDO	secretion
+göra_på_sig	SALDO	secretion
+hundlort	SALDO	secretion
+kacka	SALDO	secretion
+latrin	SALDO	secretion
+skit	SALDO	secretion
+spillning	SALDO	secretion
+stolgång	SALDO	secretion
+träck	SALDO	secretion
+analinkonsistens	SALDO	secretion
+avföringinkonsistens	SALDO	secretion
+gödsel	SALDO	secretion
+lavemang	SALDO	secretion
+lös_i_magen	SALDO	secretion
+lösande	SALDO	secretion
+naturbehov	SALDO	secretion
+bajsa	SALDO	secretion
+bajs	SALDO	secretion
+baja	SALDO	secretion
+bajsande	SALDO	secretion
+obajsad	SALDO	secretion
+bajskorv	SALDO	secretion
+hundbajs	SALDO	secretion
+hästbajs	SALDO	secretion
+bajsa_ner	SALDO	secretion
+bajs_brun	SALDO	secretion
+bajshög	SALDO	secretion
+utsöndra	SALDO	secretion
+urin	SALDO	secretion
+blodstallning	SALDO	secretion
+kissa	SALDO	secretion
+urinera	SALDO	secretion
+urinämne	SALDO	secretion
+vargurin	SALDO	secretion
+albuminuri	SALDO	secretion
+argininbärnstensaciduri	SALDO	secretion
+inkontinens	SALDO	secretion
+uribag	SALDO	secretion
+uridom	SALDO	secretion
+urinavsöndring	SALDO	secretion
+urinblåsa	SALDO	secretion
+urinfläckad	SALDO	secretion
+urinförgiftning	SALDO	secretion
+urinledare	SALDO	secretion
+urinorgan	SALDO	secretion
+urinprov	SALDO	secretion
+urinrör	SALDO	secretion
+urinsyra	SALDO	secretion
+urinväg	SALDO	secretion
+kiss	SALDO	secretion
+håla_sig	SALDO	secretion
+kissa_på_sig	SALDO	secretion
+kissande	SALDO	secretion
+knipa_ihop	SALDO	secretion
+bäcken	SALDO	secretion
+kissnödig	SALDO	secretion

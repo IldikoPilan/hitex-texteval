@@ -1,0 +1,19 @@
+# Weather-related verbs
+# Collected from Simple+ (with Class 'Weather') and chilren of these in SALDO.
+# Contains also manual additions.
+#
+#Word	Source	Other
+dugga	simple+	Weather
+regna	simple+	Weather
+snöa	simple+	Weather
+töa	simple+	Weather
+åska	simple+	Weather
+ösregna	SALDO	regna
+småregna	SALDO	regna
+störtregna	SALDO	regna
+hällregna	SALDO	regna
+duggregna 	SALDO	regna
+småsnöa	SALDO	snöa
+slaska	SALDO	snöa
+blåsa	manual
+halka	manual

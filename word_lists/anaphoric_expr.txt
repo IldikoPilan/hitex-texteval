@@ -1,0 +1,79 @@
+# Anaphoric expressions
+# Adverbs from SAG (vol. 2 Adverb ch. 20)
+# Includes also some manual additions
+#
+# Word	POS	Type
+här	AB	place
+där	AB	place
+hit	AB	place
+dit	AB	place
+därifrån	AB	place
+härifrån	AB	place
+därhän	AB	place
+dithän	AB	place
+då	AB	time
+därvid	AB	time
+härvid	AB	time
+därefter	AB	time
+därnäst	AB	time
+därpå	AB	time
+dessemellan	AB	time
+dessförinnan	AB	time
+härpå	AB	time
+dessutom	AB	logical
+därför	AB	logical
+därtill	AB	logical
+härtill	AB	logical
+desslikes	AB	logical
+därjämte	AB	logical
+härjämte	AB	logical
+därutöver	AB	logical
+härutöver	AB	logical
+dessförutom	AB	logical
+däremot	AB	logical
+häremot	AB	logical
+därför	AB	logical
+också	AB	logical
+även	AB	logical
+heller	AB	logical
+likaså	AB	logical
+likaledes	AB	logical
+tillika	AB	logical
+vidare	AB	logical
+ändå	AB	logical
+dock	AB	logical
+emellertid	AB	logical
+likväl	AB	logical
+nämligen	AB	logical
+annars	AB	logical
+eljest	AB	logical
+varom icke	AB	logical
+istället	AB	logical
+i stället	AB	logical
+alltså	AB	logical
+följaktligen	AB	logical
+så	AB	logical
+således	AB	logical
+sålunda	AB	logical
+då	AB	logical
+kanske	AB	?	manual
+därav	AB	partitive
+samtidigt	AB	time	manual
+ännu	AB	logical	manual
+tvärtom	AB	logical	manual
+efteråt	AB	logical	manual
+å andra sidan	logical	manual
+sedan	AB	time	manual
+det	PN	demonstrative
+den	PN	demonstrative
+dem	PN	demonstrative
+denna	PN	demonstrative
+denne	PN	demonstrative
+detta	PN	demonstrative
+dessa	PN	demonstrative
+densamma	PN	demonstrative
+densamme	PN	demonstrative
+sådan	PN	demonstrative
+sådant	PN	demonstrative
+sådana	PN	demonstrative
+dom	PN	personal	manual

@@ -1,0 +1,53 @@
+(iHitEx.dataset
+Dataset
+p1
+(dp2
+S'info'
+p3
+(dp4
+S'Nr tokens'
+p5
+(dp6
+sS'Nr instances'
+p7
+I0
+sS'Nr tokens per level'
+p8
+(dp9
+sS'Item amount'
+p10
+S'all'
+p11
+sS'Type of items'
+p12
+S'indep_sents'
+p13
+sS'Nr of items per level'
+p14
+(dp15
+ssS'analysis_level'
+p16
+g13
+sS'dset_path'
+p17
+S'/Library/WebServer/CGI-Executables/trunk/HitEx/datasets/'
+p18
+sS'nr_tokens'
+p19
+g6
+sS'items'
+p20
+(lp21
+sS'dset_type'
+p22
+g11
+sS'nr_items'
+p23
+I0
+sS'nr_tokens_per_level'
+p24
+g9
+sS'nr_items_detailed'
+p25
+g15
+sb.
